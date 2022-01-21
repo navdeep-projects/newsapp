@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/:https://github.com/navdeep-projects/newsapp/static/css/main.073c9b0a.css",
-    "main.js": "/:https://github.com/navdeep-projects/newsapp/static/js/main.22e42556.js",
-    "static/js/787.e7c298fb.chunk.js": "/:https://github.com/navdeep-projects/newsapp/static/js/787.e7c298fb.chunk.js",
-    "static/media/spinner.gif": "/:https://github.com/navdeep-projects/newsapp/static/media/spinner.01dafa493122a3dcda4e.gif",
-    "index.html": "/:https://github.com/navdeep-projects/newsapp/index.html",
-    "main.073c9b0a.css.map": "/:https://github.com/navdeep-projects/newsapp/static/css/main.073c9b0a.css.map",
-    "main.22e42556.js.map": "/:https://github.com/navdeep-projects/newsapp/static/js/main.22e42556.js.map",
-    "787.e7c298fb.chunk.js.map": "/:https://github.com/navdeep-projects/newsapp/static/js/787.e7c298fb.chunk.js.map"
+    "main.css": "/newsapp/static/css/main.073c9b0a.css",
+    "main.js": "/newsapp/static/js/main.036c058a.js",
+    "static/js/787.e7c298fb.chunk.js": "/newsapp/static/js/787.e7c298fb.chunk.js",
+    "static/media/spinner.gif": "/newsapp/static/media/spinner.01dafa493122a3dcda4e.gif",
+    "index.html": "/newsapp/index.html",
+    "main.073c9b0a.css.map": "/newsapp/static/css/main.073c9b0a.css.map",
+    "main.036c058a.js.map": "/newsapp/static/js/main.036c058a.js.map",
+    "787.e7c298fb.chunk.js.map": "/newsapp/static/js/787.e7c298fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.22e42556.js"
+    "static/js/main.036c058a.js"
   ]
 }
